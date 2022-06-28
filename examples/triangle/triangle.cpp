@@ -1,16 +1,3 @@
-/*
-* Vulkan Example - Basic indexed triangle rendering
-*
-* Note:
-*	This is a "pedal to the metal" example to show off how to get Vulkan up and displaying something
-*	Contrary to the other examples, this one won't make use of helper functions or initializers
-*	Except in a few cases (swap chain setup e.g.)
-*
-* Copyright (C) 2016-2017 by Sascha Willems - www.saschawillems.de
-*
-* This code is licensed under the MIT license (MIT) (http://opensource.org/licenses/MIT)
-*/
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
