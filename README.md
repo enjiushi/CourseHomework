@@ -16,5 +16,5 @@ Use the provided CMakeLists.txt with [CMake](https://cmake.org) to generate a bu
 cmake -G "Visual Studio 16 2019"
 ```
 
-Open created "CourseHomework.sln", set project "triangle" as startup project, press F5 and you're good to run
+Open created "CourseHomework.sln", set project "triangle" as startup project, press F5 and you're good to go
 
