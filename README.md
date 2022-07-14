@@ -2,8 +2,6 @@
 This project is used as homework for students of Hypergryph course. It's already setup with all required libraries as well as headers.
 
 ## Cloning
-This repository contains submodules for external dependencies, so when doing a fresh clone you need to clone recursively:
-
 ```
 git clone --recursive https://github.com/enjiushi/CourseHomework.git
 ```
